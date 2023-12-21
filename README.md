@@ -1,5 +1,5 @@
 
-<img align="center" width="1000" height="500" src="https://github.com/kimnegrette3/kimnegrette3/assets/55415837/350106c8-1e2a-4db0-adf1-556a5de6b75d">
+<img align="center" width="1000" height="500" src="https://github.com/FedeDipa91/FedeDipa91/assets/81366296/826a6ec1-549f-4894-850e-81cf0d1fdb33">
 
 
 <h1 align="center">Hi! 👋, I'm Federico Di Pasquale</h1>
