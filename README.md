@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a Data Analytics project with Python, PostgreSQL and PowerBI, check it out [here](https://github.com/FedeDipa91/BikeSharing/blob/main/README.md)! 
 
-- 🌱 I’m currently learning  **Big Data and Engineering frameworks like Spark, Docker, Cloud environments like Azure and AWS, Data Warehouse theory, NoSQL Databases and more**
+- 🌱 I’m currently learning  **Data Engineering frameworks like Docker, AirFlow and Cloud environments like GCP, Data Warehouse theory, NoSQL Databases and more**
 
 - 👯 I'm looking to collaborate in **projects related to Data Analytics or Data engineer, I'm fascinated about all Data world!**
 
