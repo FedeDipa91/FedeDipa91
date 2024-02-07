@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dipasqualef@icloud.com**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https) website and here in my pinned repositories, check them out!
+- 👨‍💻 All of my projects are available at my [portfolio](https://www.datacamp.com/portfolio/FedericoDiPasquale) website and here in my pinned repositories, check them out!
 
 - 📄 Know about my experiences in [LinkedIn](https://www.linkedin.com/in/federico-di-pasquale/)
 
