@@ -1,4 +1,6 @@
-<img align="center" width="800" height="300" src="https://github.com/FedeDipa91/FedeDipa91/assets/81366296/196e4845-dec2-4b3b-9197-c21aa2bb3467" style="border-radius: 10px;">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5276543d-407a-47fb-b70b-c7a618b64caf" width="600" height="300" style="border-radius: 10px;">
+</div>
 
 <h1 align="center">Hi! 👋, I'm Federico Di Pasquale</h1>
 <h3 align="center">Data Engineer </h3>
