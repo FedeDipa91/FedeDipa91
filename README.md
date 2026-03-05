@@ -1,31 +1,58 @@
-
-<img align="center" width="800" height="600" src="https://github.com/FedeDipa91/FedeDipa91/assets/81366296/196e4845-dec2-4b3b-9197-c21aa2bb3467">
-
+<img align="center" width="800" height="300" src="https://github.com/FedeDipa91/FedeDipa91/assets/81366296/196e4845-dec2-4b3b-9197-c21aa2bb3467" style="border-radius: 10px;">
 
 <h1 align="center">Hi! 👋, I'm Federico Di Pasquale</h1>
-<h3 align="center">A passionate Data Analyst with interests in Data Engineering and Cloud Solutions</h3>
-
-
-- 🔭 I’m currently working on a Data Analytics project with Python, PostgreSQL and PowerBI, check it out [here](https://github.com/FedeDipa91/BikeSharing/blob/main/README.md)! 
-
-- 🌱 I’m currently learning  **Data Engineering frameworks like Docker, AirFlow and Cloud environments like GCP, Data Warehouse theory, NoSQL Databases and more**
-
-- 👯 I'm looking to collaborate in **projects related to Data Analytics or Data engineer, I'm fascinated about all Data world!**
-
-- 💬 Ask me about **Python, SQL, PowerBI, Data Analysis(nerd alert)**
-
-- 📫 How to reach me **dipasqualef@icloud.com**
-
-- 👨‍💻 All of my projects are available at my [portfolio](https://www.datacamp.com/portfolio/FedericoDiPasquale) website and here in my pinned repositories, check them out!
-
-- 📄 Know about my experiences in [LinkedIn](https://www.linkedin.com/in/federico-di-pasquale/)
-
-- ⚡ Fun fact: **Used to play in a tango music orchestra with a bandoneon from 1930's (asked me about that time)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/federico-di-pasquale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-di-pasquale" height="30" width="40" /></a>
+<h3 align="center">Data Engineer </h3>
+<h4 align="center"> Azure | Fabric | SQL | Python | PySpark | RDBMS | PowerBI | DAX  </h4>
+<p align="center">
+  <em>"Software and cathedrals are very similar: first we build them, then we pray.."</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 My Journey
+
+My path into technology is driven by a search for **order and harmony**. I spent years as a professional musician (playing the bandoneon in tango orchestras), which taught me the importance of precision and teamwork. 
+
+Since 2021, I have been building my career in the data world:
+- **Data Engineering**: Currently designing ETL pipelines, working with **Azure Data Factory** and **Microsoft Fabric** to migrate legacy systems to the cloud.
+- **Data Analytics**: Specialized in Power BI and DAX to turn raw data into business insights.
+- **Operations & Data Entry**: Started at the foundation, ensuring data accuracy in ERP systems.
+
+
+
+---
+
+### 🌱 Current Focus
+
+- 🎓 **Education**: I am currently pursuing a **Higher Technical Degree in Multi-platform Application Development (DAM)** to solidify my foundations in Software Engineering.
+- 🛠️ **Technical Stack**: Deepening my knowledge in **Python (PySpark)**, **Orchestration Tools like Airflow**, and the **Microsoft Fabric** ecosystem (DP-700 - PL-300 certified).
+- 🏛️ **Computer Science**: Proudly completed Harvard's **CS50x** and **CS50 SQL**, which shaped my way of thinking about algorithms and databases.
+
+---
+
+### 💻 Technical Toolbelt
+
+- **Data Engineering**: Azure Data Factory, Microsoft Fabric, Medallion Architecture, ETL/ELT.
+- **Languages & Databases**: Python, Java, C, SQL (T-SQL, PostgreSQL), Power Query (M), DataFlows.
+- **Visualization**: Power BI (PL-300 Certified).
+- **DevOps & Tools**: Git, Azure DevOps, Docker.
+
+---
+
+### 📊 Featured Projects
+
+- 🛰️ **[Impostor Game CLI v1.0](https://github.com/FedeDipa91/impostor_cli.git)**: A terminal based version developed in Python of the impostor social deduction game.
+- 🏗️ **ERP Data Migrations**: Successfully designed pipelines for complex ERP migrations to Dynamics 365 F&O.
+
+---
+
+### 📫 Let's Connect!
+
+- 📄 **LinkedIn**: [federico-di-pasquale](https://www.linkedin.com/in/federico-di-pasquale/)
+- 📧 **Email**: [dipasqualef@icloud.com](mailto:dipasqualef@icloud.com)
+- 📍 **Location**: Madrid, Spain 🇪🇸 (Looking for opportunities in companies focused on sustainability, environmental care, and making the world a better place..
+
+---
+
+### ⚡ Fun Fact
+I played a **1930s bandoneon** in a tango orchestra. 
